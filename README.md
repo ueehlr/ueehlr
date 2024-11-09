@@ -3,8 +3,16 @@
 <!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
 </div>
 
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheehee&count_bg=%23E3A8A8&title_bg=%239D9D9D&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/jiheehee)
+
+</div>
+
+
+
 <!--내용 부분-->
-<h3 align="center">🎀 Back-End 🎀</h3>
+<h3 align="center"> Back-End </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -18,7 +26,7 @@
 
 <br>
 
-<h3 align="center">🎀 Front-End 🎀</h3>
+<h3 align="center"> Front-End </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,7 +40,7 @@
 
 <br>
 
-<h3 align="center">💻 Tools 💻</h3>
+<h3 align="center"> Tools </h3>
 <div align="center">
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
