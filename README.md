@@ -18,14 +18,14 @@
 
 </div>
 
----
+##
 
 <br>
 
 <!--내용 부분-->
 <div align="center">
   
-  ###  ⌨ Tech _ Stack 
+  ###  💻 Tech _ Stack 
 <br> 
   <!--백엔드-->
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -48,7 +48,12 @@
 
 <br>
 
+<div align="center">
+<br>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=youjh0421)](https://github.com/eungyeole/velog-readme-stats)
 
+</div>
 
 <br>
 
