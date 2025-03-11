@@ -51,7 +51,7 @@
 <div align="center">
   <br>
 
-  <div style="display: flex; justify-content: center; gap: 40px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://velog-readme-stats.vercel.app/api/redirect?name=youjh0421">
     <img align="left" src="https://velog-readme-stats.vercel.app/api?name=youjh0421&color=dark" width="45%"/>
     </a>
