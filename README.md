@@ -46,29 +46,18 @@
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br>
+<br> <br>
 
 <div align="center">
-  <br>
-
-  <div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 900px; flex-wrap: wrap;">
-    <div style="min-width: 350px;">
-      <a href="https://velog-readme-stats.vercel.app/api/redirect?name=youjh0421">
-      <img align="left" src="https://velog-readme-stats.vercel.app/api?name=youjh0421&color=dark" width="45%"/>
-      </a>
-    </div>
-    <div style="min-width: 350px;">
-      <a href="https://velog.io/@youjh0421/posts">
-        <img src="https://velog-readme-stats.vercel.app/api/list?name=youjh0421" alt="Velog's GitHub stats">
-      </a>
-    </div>
-  </div>
+<a href="https://velog-readme-stats.vercel.app/api/redirect?name=youjh0421">
+    <img align="left" src="https://velog-readme-stats.vercel.app/api?name=youjh0421&color=dark" width="45%"/>
+</a>
+<a href="https://velog.io/@youjh0421/posts">
+  <img src="https://velog-readme-stats.vercel.app/api/list?name=youjh0421" alt="Velog's GitHub stats" width="45%">
+</a>
   
 </div>
 
 
-
-
-<br>
 
 
