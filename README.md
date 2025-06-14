@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheehee&count_bg=%23E3A8A8&title_bg=%239D9D9D&icon=&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/jiheehee)-->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheehee%2Fhit-counter&count_bg=%239B9B9B&title_bg=%232F2F2F&icon=git.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
