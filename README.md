@@ -5,9 +5,9 @@
   
   ### 💻 Hello _  You _ JiHee _! 
   <br>
-  <a href="https://velog.io/@youjh0421/posts">
+<!--   <a href="https://velog.io/@youjh0421/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:youjh0421@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -45,6 +45,7 @@
 
 <br> <br>
 
+<!-- 
 <div align="center">
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=youjh0421">
     <img align="left" src="https://velog-readme-stats.vercel.app/api?name=youjh0421&color=dark" width="45%"/>
@@ -54,7 +55,7 @@
 </a>
   
 </div>
-
+-->
 
 
 
