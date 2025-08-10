@@ -5,9 +5,11 @@
   
   ### 💻 Hello _  You _ JiHee _! 
   <br>
-<!--   <a href="https://velog.io/@youjh0421/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a> -->
+  
+
+  <a href="21/poshttps://velog.io/@youjh04ts">
+    <img src="https://img.shields.io/badge/Tistory-F05032?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog">
+  </a> 
   <a href="mailto:youjh0421@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
